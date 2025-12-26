@@ -1,6 +1,5 @@
-# frontend-intern-interview-notes
-面试全程记录
 ## 📂 目录结构
+```text
 frontend-intern-interview-notes/
 ├── README.md
 ├── 00-高频必背/
