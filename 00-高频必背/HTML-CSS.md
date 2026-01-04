@@ -18,10 +18,13 @@ justify-content: center → 水平居中  主轴
 align-items: center → 垂直居中  交叉轴
 
 
-
 // 创建1--100的数组
 const arr = [];
 for (let i = 1;i<=100;i++){
     arr.push(i);
 }
 console.log(arr);
+
+
+网格布局
+place-items: center; 
